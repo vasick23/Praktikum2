@@ -1,0 +1,1 @@
+database=C:\Users\Acer Build\Desktop\praktikum2-master\stuDB;
